@@ -9,6 +9,7 @@ function App() {
 
   return (
     <div className="  mx-auto max-w-[1200px]">
+       <p>Test</p>
       <Header />
       <Card tour={tour} />
     </div>
